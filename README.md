@@ -1,5 +1,5 @@
 
-Welcome to the `.github` repository! This repository houses all the templates and configuration files related to pull requests (PRs) for our organization.
+Welcome to the `.github` repository! This repository aims to hold all the templates and configuration files related to pull requests (PRs) for our organization.
 
 ## Contents
 
@@ -7,11 +7,11 @@ Welcome to the `.github` repository! This repository houses all the templates an
 
 ## Pull Request Templates
 
-This repository contains PR template to standardize and streamline the pull request process across our projects. 
+This repository contains a PR template to standardize and streamline the pull request process across our projects. 
 
 ### How to Use PR Templates
 
-To use a pull request template, create a new pull request in any of our repositories. The available template will be auto populated.
+To use a pull request template, create a new pull request in any of our repositories. The available template will be auto-populated.
 
 ### Adding a New PR Template
 
